@@ -1,0 +1,15 @@
+# Teddy Recommendation System Requirements
+# Core ML and Data Processing
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.1.0
+scipy>=1.9.0
+
+# UI and Interface
+gradio>=4.0.0
+
+# Utilities
+pathlib2>=2.3.0
+
+# Optional: For better performance
+numba>=0.56.0
